@@ -24,4 +24,4 @@ a
 **Apresente as instruções necessárias para abrir e executar o projeto**
 
 
-| [![ICnIKDLv_200x200](https://user-images.githubusercontent.com/108819606/182641569-000e0e4c-9999-4542-a23c-e5b2108951e3.jpg) ><br><sub>Arthur Justi Beiral</sub>](https://github.com/kuxyy) |
+[![ICnIKDLv_200x200](https://user-images.githubusercontent.com/108819606/182641569-000e0e4c-9999-4542-a23c-e5b2108951e3.jpg)<br><sub>| Arthur Justi Beiral |</sub>](https://github.com/kuxyy) 
